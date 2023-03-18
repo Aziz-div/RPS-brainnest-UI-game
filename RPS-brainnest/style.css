@@ -1,0 +1,39 @@
+
+            *{
+                margin-top: 0.08em;
+            }
+            body{
+                display: flex;
+                justify-content: center;
+                flex-direction: column;
+                height: 90vh;
+                text-align: center;
+                font-size: 1.7em;
+                font-weight: 900;
+        }
+        button{
+            font-size: 3em;
+            width: fit-content;
+            background: none;
+            border: none;
+            margin: auto;
+
+        }
+        div{
+            display: flex;
+            justify-content: space-around;
+            
+        }
+        p{
+            color: rgb(195, 0, 146);
+            text-transform: uppercase;
+            
+        }
+        span{
+            color: rgb(49, 128, 0);
+            font-size: larger;
+        }
+        img{
+            width: 1.5em;
+            padding-top: 0.5em;
+        }
